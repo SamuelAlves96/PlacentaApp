@@ -1,1 +1,1 @@
-App available at samuelalves.shinyapps.io/
+App available at https://samuelalves.shinyapps.io/APP2/
